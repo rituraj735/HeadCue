@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CallSense</string>
+    <string name="title_activity_ctdialer">CTDialerActivity</string>
+</resources>
